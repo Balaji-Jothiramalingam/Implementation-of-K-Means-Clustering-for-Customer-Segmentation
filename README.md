@@ -70,6 +70,7 @@ plt.legend()
 ![img2](https://user-images.githubusercontent.com/94883876/172997928-d8082719-a738-4dc9-89ce-2bda98acd424.jpg)
 ![img3](https://user-images.githubusercontent.com/94883876/172997939-26df6238-6ea6-4f5f-b08a-f602ea57aaa3.jpg)
 ![img4](https://user-images.githubusercontent.com/94883876/172997955-956e7157-8abc-4083-b395-b128ac3c7f3a.jpg)
+![img3](https://github.com/Thenmozhi-Palanisamy/Implementation-of-K-Means-Clustering-for-Customer-Segmentation/raw/main/t4.png)
 ![img5](https://user-images.githubusercontent.com/94883876/172998043-8a7f28a5-42f3-43d3-a164-e1d525703ec0.jpg)
 
 
